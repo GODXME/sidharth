@@ -133,9 +133,9 @@ cd SK Jha-native
 
 ## <img src="https://api.iconify.design/lucide:message-circle.svg?color=%2324A1DE" width="20" height="20" align="center" /> Community & Support
 
-* <img src="https://api.iconify.design/lucide:send.svg?color=%2324A1DE" width="16" height="16" align="center" /> **Updates & Support:** [Join @clashprojects on Telegram](https://t.me/clashprojects)
-* <img src="https://api.iconify.design/lucide:sparkles.svg?color=%230088cc" width="16" height="16" align="center" /> **More From Us:** [Join @MaterialYouApp on Telegram](https://t.me/MaterialYouApp)
-* <img src="https://api.iconify.design/lucide:message-square.svg?color=%235865F2" width="16" height="16" align="center" /> **Discord Community:** [Join Discord](https://discord.gg/DmyM2p2fMe)
+* <img src="https://api.iconify.design/lucide:send.svg?color=%2324A1DE" width="16" height="16" align="center" /> **Updates & Support:** [Join @godxme on Telegram]
+* <img src="https://api.iconify.design/lucide:sparkles.svg?color=%230088cc" width="16" height="16" align="center" /> **More From Us:** [Join @godxme on Telegram]
+* <img src="https://api.iconify.design/lucide:message-square.svg?color=%235865F2" width="16" height="16" align="center" /> **Discord Community:** [Join Discord](https://discord.gg/D6HBdWexN)
 * <img src="https://api.iconify.design/lucide:globe.svg?color=%2324A1DE" width="16" height="16" align="center" /> **SK Jha Website:** [visit site now](https://SK Jha.pages.dev)
 
 ---
@@ -150,11 +150,3 @@ cd SK Jha-native
 > **No Affiliation & Content Policy**
 > - SK Jha is an independent project and is **not affiliated with, endorsed, or sponsored by Google LLC, YouTube, YouTube Music, Spotify, Apple Inc., Last.fm, or any music service**.
 > - SK Jha **does not host, stream from private servers, or distribute any copyrighted media**. All content and metadata are accessed directly from public endpoints in accordance with their respective terms. All trademarks belong to their respective owners.
-
----
-
-<div align="center">
-  <p><b>SK Jha</b> is built with ❤️ by <a href="https://github.com/duxtami">Duxtami</a> & <a href="https://github.com/ajisth69">Ajisth</a>.</p>
-</div>
-
-[![GitGem](https://gitgem.org/api/badge/github/Clash-Projects/SK Jha-Native.svg)](https://gitgem.org/github/Clash-Projects/SK Jha-Native)
